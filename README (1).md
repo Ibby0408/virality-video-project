@@ -63,24 +63,16 @@ The tool needs a YouTube Data API key. Without one there is no data to score.
 
 ## Run it locally
 
-> TODO: confirm the steps below match the repo.
-
 1. Clone the repo.
 2. Add your YouTube Data API v3 key where the code expects it (do not commit it).
 3. Open `index.html` in a browser, or serve the folder with a local server.
 
-## Repo structure
-
-> TODO: fill in once files are organized (data, notebooks, front-end code, figures, slides).
 
 ## My contributions
 
 - Built the **scoring algorithm** (benchmarks and point rules for determining and predicting virality).
 - Did the **video duration distribution** analysis.
 
-## Data
-
-> TODO: add the dataset source, size (about 47,600 videos), collection method, and date range.
 
 ## Contributors
 
